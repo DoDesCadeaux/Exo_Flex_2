@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.flex-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: coral;
+}
+
+.f1 {
+    width: 1500px;
+    margin: 5px;
+}
+
+.f2 {
+    width: 745px;
+    margin: 5px;
+}
+
+.f3 {
+    width: 493px;
+    margin: 5px;
+}
+
+.f12 {
+    width: 115.8px;
+    margin: 5px;
+}
